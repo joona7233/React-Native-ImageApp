@@ -1,0 +1,12 @@
+{
+  "name": "imageupper",
+  "displayName": "imageupper",
+  "expo": {
+    "name": "imageupper",
+    "slug": "imageupper",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
